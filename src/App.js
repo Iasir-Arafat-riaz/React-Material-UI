@@ -12,7 +12,7 @@ function App() {
         Secondary
       </Button>
       <News></News>
-      <h1>work hard</h1>
+      
 
     </div>
   );

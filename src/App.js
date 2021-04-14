@@ -8,9 +8,7 @@ function App() {
   return (
     <div>
     
-      <Button variant="contained" color="secondary">
-        Secondary
-      </Button>
+      
       <News></News>
       
 
